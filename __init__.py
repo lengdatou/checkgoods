@@ -1,4 +1,4 @@
-#coding:utf-8
+# -*- coding:utf-8 -*- 
 '''
 Created on 2016��3��2��
 
@@ -10,3 +10,4 @@ from checkgoodsconfig import *
 if __name__ == "__main__":
     runcheckgoods()
     #getpaytypelist()
+    #qudao()
