@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*- 
 '''
-Created on 2016��3��2��
+Created on 2016/07/10
 
 @author: RD04
 '''
